@@ -97,6 +97,14 @@ python train_image_classifier.py
 
 ```
 
+http://stackoverflow.com/questions/38947658/tensorflow-saving-into-loading-a-graph-from-a-file
+
+http://stackoverflow.com/documentation/tensorflow/5000/save-and-restore-a-model-in-tensorflow#t=201608150606555812336
+
+https://accounts.google.com/o/oauth2/auth?client_id=717762328687-p17pldm5fteklla3nplbss3ai9slta0a.apps.googleusercontent.com&scope=profile+email&redirect_uri=https%3a%2f%2fstackauth.com%2fauth%2foauth2%2fgoogle&state=%7b%22sid%22%3a1%2c%22st%22%3a%228ccf498b1dd9726abb4fc65a9fb48841d2ac8f839a38894253f92439cce9f01d%22%2c%22ses%22%3a%226ca4e02e7ab34b4b8de99685650a0b0e%22%7d&response_type=code
+
+A lot of functions in the scripts provided have been deprecated. SO you will receive errors when using the latest model of tensor flow. but nonetheless the script will still run.
+
 ## still updating
 
 
