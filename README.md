@@ -66,7 +66,7 @@ The models repository could be cloned or forked from https://github.com/tensorfl
 
 You can approach this through the slim or inception tutorial
 
-I followed the inception tutorial and is able to run the flowers_train on a different dataset. simply change the num_classes in 
+I followed the inception tutorial and is able to run the flowers_train on a different dataset.
 
 ```shell
 
